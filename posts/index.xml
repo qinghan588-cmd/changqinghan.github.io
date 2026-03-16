@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 长卿寒| Logic &amp; Emotion</title>
+    <link>http://localhost:1313/changqinghan.github.io/posts/</link>
+    <description>Recent content in Posts on 长卿寒| Logic &amp; Emotion</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="http://localhost:1313/changqinghan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/changqinghan.github.io/posts/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/changqinghan.github.io/posts/hello/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;关于我&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-03-17&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;# 👨‍💻 长卿寒 | 逻辑构建者 &amp;amp; 情绪表达者&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;**“用代码构建逻辑，用音乐表达情绪，用认知撬动增长。”**&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## 🧩 关于我 | About Me&lt;/p&gt;
+&lt;p&gt;我是 **长卿寒(熊竞怡)**，CS/一名深耕计算机领域的 **INTP** 探索者。我坚信底层的技术逻辑与高阶的情绪价值可以产生奇妙的化学反应。&lt;/p&gt;
+&lt;p&gt;* **技术向**： &lt;code&gt;C&lt;/code&gt; / &lt;code&gt;Python&lt;/code&gt; / &lt;code&gt;Java&lt;/code&gt; / &lt;code&gt;Rust&lt;/code&gt;，目前专注于 **AI 大模型落地**与 **Agent 演进**。&lt;/p&gt;
+&lt;p&gt;* **内容向**：R&amp;amp;B 与流行音乐深度爱好者，正在探索 AI 赋能下的内容创作新模态。&lt;/p&gt;
+&lt;p&gt;* **坐标**：**长沙**，开启关于算力、能源与数字资产的价值实践。&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## 🚀 核心赛道 | Core Tracks&lt;/p&gt;
+&lt;p&gt;### 1. AI Agent 落地工程&lt;/p&gt;
+&lt;p&gt;* **研究重心**：OpenClaw 等开源智能体应用。&lt;/p&gt;
+&lt;p&gt;* **愿景**：探索 AI 从“辅助工具”向“独立生产单元”的演化。&lt;/p&gt;
+&lt;p&gt;### 2. AI 赋能内容变现&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
